@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392790192218",
+    "firebase_url": "https://perabot-e8a52.firebaseio.com",
+    "project_id": "perabot-e8a52",
+    "storage_bucket": "perabot-e8a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392790192218:android:fd493b6818fc52e942a863",
+        "android_client_info": {
+          "package_name": "com.example.perabot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392790192218-tro8r7s40ifddsi6oddg4h88nb4iqrt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.perabot",
+            "certificate_hash": "0b7ec269a011bcdfac134b307059871ff039b214"
+          }
+        },
+        {
+          "client_id": "392790192218-22dgssjafm8l81sa62j10ed5qgodh9rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjph5VZrJbXnwmprFnGPqLlPxOj4rVLdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392790192218-22dgssjafm8l81sa62j10ed5qgodh9rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
